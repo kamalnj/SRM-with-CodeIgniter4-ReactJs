@@ -67,3 +67,5 @@
 #--------------------------------------------------------------------
 
 # logger.threshold = 4
+# AUTHENTICATION_ALLOW_REMEMBERING=true
+# AUTHENTICATION_CLASSES='CodeIgniter\Shield\Authentication\Authenticators\Session,CodeIgniter\Shield\Authentication\Authenticators\Token'
